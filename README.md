@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @WilsoAgya
-- 👀 I’m interested in app development, and video games
-- 🌱 I’m currently learning Object Oriented Programming in Java
-- 💞️ I’m looking to collaborate on any coding projects I am open to anything 
+- 👋 Hi, my name is Wilson
+- 🏗️ I love to design and build
+- 🌱 I am familiar with Python,Java,HTML,CSS,PHP,Javascript
 - 📫 How to reach me: You can contact me through my email wilsonagyapong16@gmail.com
 
 <!---
