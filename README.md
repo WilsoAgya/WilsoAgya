@@ -1,5 +1,6 @@
 - 👋 Hi, my name is Wilson
 - 🏗️ I love to design and build
+- 🎾 I have a deep love for tennis.
 - 🌱 I am familiar with Python,Java,HTML,CSS,PHP,Javascript
 - 📫 How to reach me: You can contact me through my email wilsonagyapong16@gmail.com
 
