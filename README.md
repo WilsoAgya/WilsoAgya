@@ -1,9 +1,16 @@
-- 👋 Hi, my name is Wilson
-- 🏗️ I love to design and build
-- 🎾 I have a deep love for tennis.
-- 🎮 I love playing video games
-- 🌱 I am familiar with Python,Java,HTML,CSS,PHP,Javascript
-- 📫 You can contact me through my email wilsonagyapong16@gmail.com
+👋 Hi there, I'm Wilson!
+
+🏗️ Passionate about designing and building things.
+
+🎹 Deeply passionate about playing the piano.
+
+🎮 Enthusiastic gamer who loves playing video games.
+
+🌱 Proficient in Python, Java, HTML, CSS, PHP, and JavaScript.
+
+📫 Feel free to reach out to me via email: wilsonagyapong16@gmail.com
+
+
 
 <!---
 WilsoAgya/WilsoAgya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
