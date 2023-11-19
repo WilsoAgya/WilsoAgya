@@ -1,6 +1,6 @@
 👋 Hi there, I'm Wilson!
 
-🏗️ Passionate about designing and building things.
+🏗️ Enjoy designing and building things.
 
 🎹 Deeply passionate about playing the piano.
 
