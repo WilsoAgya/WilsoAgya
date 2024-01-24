@@ -4,7 +4,7 @@
 
 🎹 Deeply passionate about playing the piano.
 
-🎮 Enthusiastic gamer who loves playing video games, card games, and board games.
+🎮 Enthusiastic gamer who loves playing video games.
 
 🌱 Proficient in Python, Java, HTML, CSS, PHP, and JavaScript.
 
