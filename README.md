@@ -4,8 +4,6 @@
 
 🎹 Deeply passionate about playing the piano.
 
-🎮 Enthusiastic gamer who loves playing video games.
-
 🌱 Proficient in Python, Java, HTML, CSS, PHP, and JavaScript.
 
 📫 Feel free to reach out to me via email: wilsonagyapong16@gmail.com
