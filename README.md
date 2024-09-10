@@ -1,12 +1,3 @@
-👋 Hi there, I'm Wilson!
-
-🏗️ Enjoy designing and building things.
-
-🎹 Deeply passionate about playing the piano.
-
-🌱 Proficient in Python, Java, HTML, CSS, PHP, and JavaScript.
-
-📫 Feel free to reach out to me via email: wilsonagyapong16@gmail.com
 
 
 
