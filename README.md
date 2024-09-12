@@ -1,6 +1,8 @@
 <h1>Hello, nice to meet you 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-agyapong/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-agyapong/)
+
 
 
 
