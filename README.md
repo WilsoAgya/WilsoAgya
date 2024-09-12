@@ -1,4 +1,4 @@
-<h1>Hello, I'm Wilson 👋</h1>
+<h1>Hello, nice to meet you 👋</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-agyapong/)
 
