@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Java Spring and Django<br>💬 Ask me about React, Bootstrap, MongoDB<br>⚡ Fun fact, I have a coffee addiction
+<br>🌱 I’m currently learning Django<br>💬 Ask me about React, Bootstrap, MongoDB<br>⚡ Fun fact, I have a coffee addiction
 
 
 ## 🌐 Socials:
