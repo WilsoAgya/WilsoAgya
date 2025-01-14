@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Django<br>💬 Ask me about React, Bootstrap, MongoDB<br>⚡ Fun fact, I have a coffee addiction
+Hello, welcome to my github page. My name is Wilson and I'm a fourth year Computer Science student. I love to work on side projects in my spare time and making my ideas come to life. Feel free to connect with me if you have a question about any of my repositories or want to have a quick chat!
 
 
 ## 🌐 Socials:
