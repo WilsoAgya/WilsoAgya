@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hello, welcome to my github page. My name is Wilson and I'm a fourth year Computer Science student. I love to work on side projects in my spare time and make my ideas come to life. Feel free to connect with me if you have a question about any of my repositories or want to have a quick chat!
+Welcome to My GitHub Page! 👋
+Hi, I'm Wilson, a fourth-year Computer Science student passionate about technology and innovation. In my spare time, I enjoy working on side projects and bringing my ideas to life.
+
+Feel free to explore my repositories, and don't hesitate to reach out if:
+
+- You have questions about any of my projects
+- You want to collaborate
+- You're up for a quick chat about tech or anything else
+Looking forward to connecting with you! 🚀
+
+
 
 
 ## 🌐 Socials:
