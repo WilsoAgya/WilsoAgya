@@ -1,6 +1,6 @@
 # 💫 About Me:
 Welcome to My GitHub Page! 👋
-Hi, I'm Wilson, a fourth-year Computer Science student passionate about technology and innovation. In my spare time, I enjoy working on side projects and bringing my ideas to life.
+Hi, I'm Wilson, a recent Computer Science Graduate with an interest in making discoveries through data and designing websites. In my spare time, I enjoy working on side projects and bringing my ideas to life.
 
 Feel free to explore my repositories, and don't hesitate to reach out if:
 
